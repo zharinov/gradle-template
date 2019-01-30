@@ -1,5 +1,8 @@
 {
 	"gradle": {
 		"enabled": true
+	},
+	"gradle-wrapper": {
+		"enabled": true
 	}
 }
