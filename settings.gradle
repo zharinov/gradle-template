@@ -1,2 +1,4 @@
 rootProject.name = 'en.test'
 
+include 'module1'
+include 'module2'
