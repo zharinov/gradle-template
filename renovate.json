@@ -1,4 +1,18 @@
 {
+	"packageRules": [
+		{
+			"packageNames": ["ch.qos.logback:logback-classic"],
+			"allowedVersions": "<=1.2.2"
+		},
+		{
+			"packageNames": ["gradle"],
+			"allowedVersions": ">5.2.0"
+		},
+		{
+			"packageNames": ["io.gitlab.arturbosch.detekt:detekt-formatting"],
+			"allowedVersions": "!=1.0.0.RC9.2"
+		}
+	],
 	"gradle": {
 		"enabled": true
 	},
