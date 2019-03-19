@@ -6,11 +6,11 @@
 		},
 		{
 			"packageNames": ["gradle"],
-			"allowedVersions": "!=5.2.0"
+			"allowedVersions": "< 5.2.1 || > 5.2.1"
 		},
 		{
 			"packageNames": ["io.gitlab.arturbosch.detekt:detekt-formatting"],
-			"allowedVersions": "!=1.0.0.RC9.2"
+			"allowedVersions": "< 1.0.0.RC9.2 || > 1.0.0.RC9.2"
 		}
 	],
 	"gradle": {
