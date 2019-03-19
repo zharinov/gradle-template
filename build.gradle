@@ -30,7 +30,7 @@ allprojects { project ->
 	apply plugin: 'java'
 
     dependencies {
-        testCompile("org.mockito:mockito-core:2.20.1")
+        testCompile("org.mockito:mockito-core:2.25.1")
     }
 }
 
