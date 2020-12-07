@@ -13,10 +13,5 @@
 			"allowedVersions": "(,1.0.0.RC9.2),(1.0.0.RC9.2,)"
 		}
 	],
-	"gradle": {
-		"enabled": true
-	},
-	"gradle-wrapper": {
-		"enabled": true
-	}
+	"enabledManagers": ["gradle", "gradle-lite"]
 }
